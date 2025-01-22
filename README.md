@@ -26,6 +26,9 @@ This project evaluates the potential reduction in transport externalities—such
 
 Negative externalities of transport, such as noise, accidents, and congestion, impose societal costs. This project quantifies these costs and evaluates the feasibility of transitioning container transport from road to rail.
 
+![image](https://github.com/user-attachments/assets/4f44a1f6-7259-4dc3-9349-b5238fe8ca42)
+
+
 - **Transport Modes Analyzed**:
   1. Road trucking (HGV).
   2. Diesel freight trains.
@@ -39,14 +42,23 @@ Negative externalities of transport, such as noise, accidents, and congestion, i
 1. **Accident Costs**:
    - Components: Human costs, medical costs, administrative costs, production loss.
    - Adjustments made for Oman’s population density, road safety, and insurance rates.
+     
+![image](https://github.com/user-attachments/assets/3d26ee7c-2586-43f9-aba1-b342f3a5ace4)
 
 2. **Noise Costs**:
    - Components: Annoyance and health costs.
    - Factors: Population exposed to noise, healthcare development index, and regional purchasing power parity.
 
+![image](https://github.com/user-attachments/assets/3e7875c9-531c-4564-b0d5-96d789e19d0e)
+
+
 3. **Congestion Costs**:
    - Components: Delay costs and deadweight loss.
    - Considerations: Vehicle load, road capacity, and value of time.
+
+![image](https://github.com/user-attachments/assets/5b507d67-475a-44ae-ba8c-b2c8d47e0955)
+
+
 
 ### Assumptions:
 - Daily container load: 100,000 tons.
